@@ -1,3 +1,5 @@
+// copyright 2018
+
 #include <gtest/gtest.h>
 
 TEST(dummy, should_pass) {
